@@ -418,6 +418,13 @@ print("yokesh".split()) # returns list with 1 item i.e, the string itself.
 print("my age is aging for agingng while aging".split("ag"))
 print("my age is aging for agingng while aging".split("aging"))
 
+print("Hello world  how   are   you".split(" "))
+# O/P : ['Hello', 'world', '', 'how', '', '', 'are', '', '', 'you']
+print("Hello world  how   are   you".split())
+# O/P : ['Hello', 'world', 'how', 'are', 'you']
+
+# Be careful using split() with content and without content as said in example lines 421 to 424
+
 print("********************")
 # rsplit() works same as split() until the limit is specified.If limit is specified in rsplit() then python
 # interpreter starts splitting from right side.
