@@ -194,6 +194,9 @@ print(name1)
 his_name = []
 his_name.extend(['yokesh'])
 print(his_name)
+her_name = [1,2]
+her_name.extend('hema')
+print(her_name)   
 # Adding 2 lists to form another list using + operator
 my_hobbies = ['studying','gaming']
 my_another_hobbies = ['listening music']
