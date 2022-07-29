@@ -686,3 +686,8 @@ print("*************************************************************************
 print(max('yokesh'))
 print(min('yokesh'))
 print(max("Hello dear how are you"))
+
+
+print("hello" * -3)  # prints nothing
+print(len("hello"*-3))  # o/p : 0
+# string with negative values on * operator returns empty sring / no string 
