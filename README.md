@@ -4,7 +4,7 @@ You can learn python 3.10 in easy way using the code in this repository
 #### I am a software developer
 ![I am a software developer](https://thumbs.dreamstime.com/b/python-programming-language-programing-workflow-abstract-algorithm-concept-virtual-screen-200850656.jpg)
 
-I made this project to make aspiring developers to learn python 3.xx
+I made this project to make aspiring developers learn python 3.xx
 
 - 📫 How to reach me: bollineniyokesh@gmail.com 
 - ⚡ Fun fact: Java >>>>>>>>>>>>>>>> Python 
